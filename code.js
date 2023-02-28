@@ -16,4 +16,4 @@ const consonantCount = (str) => {
   }
 };
 
-console.log(consonantCount("21486378328983"));
+console.log(consonantCount("2148631232478333328983"));
